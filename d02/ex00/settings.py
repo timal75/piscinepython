@@ -1,0 +1,5 @@
+title = "MY GREAT CV"
+firstname="Toto"
+lastname="The Great"
+age="12"
+job = "Pole emploi" 
